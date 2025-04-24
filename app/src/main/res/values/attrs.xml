@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IntroCardView">
+        <attr name="cardIcon" format="reference"/>
+        <attr name="cardTitle" format="string"/>
+        <attr name="cardContent" format="string"/>
+        <attr name="contentLinkColor" format="color"/>
+        <attr name="squareBottomCorners" format="boolean"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="cardBackgroundImage" format="reference"/>
+    </declare-styleable>
+</resources>
